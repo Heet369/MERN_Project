@@ -10,7 +10,7 @@ const blogRoutes = require('./routes/blogRoutes');
 const interactionRoutes = require('./routes/interactionRoutes');
 
 const app = express();
-// app.set('trust proxy', 1);
+app.set('trust proxy', 1);
 
 connectDB();
 
