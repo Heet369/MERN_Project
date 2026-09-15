@@ -1,4 +1,4 @@
-# 🌐 SYNAPSE.AI — Full-Stack MERN Blog Platform
+# MERN Blog Platform
 
 A modern, high-performance blog platform built with the **MERN** stack (MongoDB, Express, React, Node.js) and styled with **Tailwind CSS v4** in a sleek Dark AI aesthetic.
 
